@@ -43,5 +43,5 @@ require('./secondLargest').algorithms.second([3, 2, 1]);
 
 require('./secondLargest', function(secondLargest){
  secondLargest.algorithms.third([3, 2, 1]);
-})
+});
 ```
